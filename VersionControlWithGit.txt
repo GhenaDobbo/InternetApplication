@@ -1,2 +1,9 @@
 Git is the best choice for most software teams today. While every team is different and should do their 
 own analysis, here are the main reasons why version control with Git is preferred over alternatives:
+
++ Git is good
+
+Git has the functionality, performance, 
+security and flexibility that most teams and individual developers need.
+These attributes of Git are detailed above. In side-by-side comparisons with most
+other alternatives, many teams find that Git is very favorable.
